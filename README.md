@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayriannateachout
-- 👀 I’m interested in Coding(especially JavaScript), Web Development, Software Engineer, Technology Education, Hiking and Psychology
+- 👀 I’m interested in Coding(especially JavaScript), Data Science, Software Engineering, Technology Education, Hiking and Psychology
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me adteachout@gmail.com
